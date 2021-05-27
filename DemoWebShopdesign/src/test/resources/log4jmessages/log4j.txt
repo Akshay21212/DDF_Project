@@ -1,0 +1,9 @@
+URL opened ---
+get Cookies---
+**Test1----------
+capture ScreenShot---
+get Cookies---
+**Test2----------
+capture ScreenShot---
+closed DB---
+Closed driver---
